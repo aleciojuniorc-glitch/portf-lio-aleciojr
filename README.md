@@ -1,1 +1,3 @@
 # portf-lio-aleciojr
+Este portfólio apresenta minha trajetória profissional e acadêmica, destacando minhas principais competências, conhecimentos e projetos desenvolvidos. Ao longo da apresentação, são apresentadas minhas experiências na área de tecnologia, minhas habilidades técnicas e os trabalhos que demonstram minha evolução profissional. O objetivo do portfólio é mostrar não apenas os conhecimentos adquiridos, mas também minha capacidade de aplicar essas competências na criação de soluções e projetos inovadores.
+https://www.figma.com/make/INLQooXF7ubDF95j0vPLQU/Portfolio-de-Apresenta%C3%A7%C3%A3o-Profissional?t=gFjILoz2aMYFymru-1
